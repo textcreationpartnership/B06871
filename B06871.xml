@@ -1,0 +1,548 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A loyal song of the royal feast, kept by the prisoners in the Tower, in August 1648. with the names, titles, and characters of every prisoner. / By Sir F. Worley, knight and baronet, prisoner.</title>
+            <author>Wortley, Francis, Sir, 1591-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06871</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[81]</idno>
+            <idno type="EEBO-CITATION">99884963</idno>
+            <idno type="PROQUEST">ocm99884963</idno>
+            <idno type="VID">182751</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06871)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182751)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[81])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A loyal song of the royal feast, kept by the prisoners in the Tower, in August 1648. with the names, titles, and characters of every prisoner. / By Sir F. Worley, knight and baronet, prisoner.</title>
+                  <author>Wortley, Francis, Sir, 1591-1652.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "God save the best of Kings, King Charles ..."</note>
+                  <note>Cf. Wing W3639 which has title words "loyall" and "royall".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Songs, English --  17th century.</term>
+               <term>Prisoners' writings, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:182751:1" rendition="simple:additions"/>
+            <head>A Loyal Song of the Royal Feaſt, kept by the Priſoners in the Tower, in <hi>Auguſt</hi> 1648. with the Names, Titles, and Characters of every Priſoner.</head>
+            <byline>By Sir <hi>F. Wortley,</hi> Knight and Baronet, Priſoner.</byline>
+            <lg>
+               <l>GOd ſave the beſt of Kings, King <hi>Charles,</hi>
+               </l>
+               <l>The beſt of Queens, Queen <hi>Mary,</hi>
+               </l>
+               <l>The Ladies all, <hi>Gloſter</hi> and <hi>York,</hi>
+                  <note place="margin">K. Henry of France the fourth.</note>
+               </l>
+               <l>Prince <hi>Charle's</hi> ſo like old <hi>Harry:</hi>
+               </l>
+               <l>God ſend the King his own again,</l>
+               <l>His Towre, and all his Coyners,</l>
+               <l>And bleſs all Kings who are to raign</l>
+               <l>From Traytors and Purloyners.</l>
+               <l>
+                  <hi>The King ſent us poor Traytors here</hi>
+               </l>
+               <l>
+                  <hi>(But you may gueſs the reaſon)</hi>
+               </l>
+               <l>
+                  <hi>Two brace of Bucks to mend the cheere,</hi>
+               </l>
+               <l>
+                  <hi>Is't not to eat them Treaſon?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Let <hi>Selden</hi> ſearch <hi>Cotton's</hi> Records,</l>
+               <l>And <hi>Royley</hi> in the Tower,</l>
+               <l>They cannot match the preſident,</l>
+               <l>It is not in their power.</l>
+               <l>Old <hi>Collet</hi> would have joy'd t'ave ſeen
+<note place="margin">Keeper of Records.</note>
+               </l>
+               <l>This preſident recorded,</l>
+               <l>For all the papers he ere ſaw</l>
+               <l>Scarce <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> an one afforded.</l>
+               <l>
+                  <hi>The King ſent us,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>But that you may theſe traytors know</l>
+               <l>I'le be ſo bold to name them,</l>
+               <l>That if they ever traytors prove,</l>
+               <l>Then this record may ſhame them:</l>
+               <l>But theſe are well try'd loyal blades</l>
+               <l>(If <hi>England</hi> ere had any)</l>
+               <l>Search both the Houſes through and through,</l>
+               <l>Youl'd ſcarcely find ſo many.</l>
+               <l>
+                  <hi>The King ſent us,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The firſt and chief a Marqueſs is
+<note place="margin">Mar. Winton.</note>
+               </l>
+               <l>Long with the State did wreſtle,</l>
+               <l>Had <hi>Ogle</hi> done as much as he,</l>
+               <l>They'd ſpoil'd <hi>Will. Wallers</hi> Caſtle:</l>
+               <l>
+                  <hi>Ogle</hi> had wealth and title got,</l>
+               <l>So layd down his Commiſſions,</l>
+               <l>The noble Marqueſs would not yield,</l>
+               <l>But ſcorn'd all baſe conditions.</l>
+               <l>
+                  <hi>The King ſent us,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The next a worthy Biſhop is,
+<note place="margin">Biſh. Eely.</note>
+               </l>
+               <l>Of Schiſmaticks was hated,</l>
+               <l>But I the cauſe could never know,</l>
+               <l>Nor ſee the reaſon ſtated:</l>
+               <l>The cries were loud, God knows the cauſe,</l>
+               <l>They had a ſtrange Committee,</l>
+               <l>Which was a foot well near a year,</l>
+               <l>They would have had ſmall pitty.</l>
+               <l>
+                  <hi>The King ſent us,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The next to him is a Welſh Judge
+<note place="margin">Judg. Jen<g ref="char:EOLhyphen"/>kins <abbr>Eſq</abbr>
+                  </note>
+               </l>
+               <l>Durſt tell them what was treaſon,</l>
+               <l>Old honeſt <hi>David</hi> durſt be good,</l>
+               <l>When it was out of ſeaſon:</l>
+               <l>He durſt diſcover all the tricks</l>
+               <l>The Lawyers uſe, and Knavery,</l>
+               <l>And ſhew the ſubtile plots they uſe</l>
+               <l>To enthral us in ſlavery.</l>
+               <l>
+                  <hi>The King ſent us,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Frank Wortley</hi> hath a jovial ſoul,
+<note place="margin">Knight &amp; Baronet.</note>
+               </l>
+               <l>Yet never was good club-man,</l>
+               <l>Hee's for the Biſhops and the Church,</l>
+               <l>But can endure no Tub-man:</l>
+               <l>He told Sir <hi>Thomas</hi> in the Tower,
+<note place="margin">Gen. <hi>Fairfax.</hi>
+                  </note>
+               </l>
+               <l>Though he by him was undone,</l>
+               <l>It pleas'd him that he loſt more men,</l>
+               <l>In taking him then <hi>London.</hi>
+               </l>
+               <l>
+                  <hi>The King ſent us,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Sir <hi>Edward Hayles</hi> was wondrous rich,
+<note place="margin">Knight &amp; Baronet.</note>
+               </l>
+               <l>No flower in <hi>Kent</hi> yields honey</l>
+               <l>In more abundance to the Bee,</l>
+               <l>Then they from him ſuck money:</l>
+               <l>Yet hee's as chearful as the beſt,</l>
+               <l>Judge <hi>Jenkins</hi> ſees no reaſon</l>
+               <l>That honeſt men for wealth ſhould be</l>
+               <l>Accuſed of High-treaſon.</l>
+               <l>
+                  <hi>The King ſent us,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Old Sir <hi>John Strangwayes</hi> he came in,
+<note place="margin">Knight &amp; Baronet.</note>
+               </l>
+               <l>Though he himſelf ſubmitted,</l>
+               <l>Yet as a traytor he muſt be,</l>
+               <l>Excepted and committed.</l>
+               <l>Yet they th'exception now take off,</l>
+               <l>But not the ſequeſtration,</l>
+               <l>He muſt forſooth to Goldſmiths-Hall,</l>
+               <l>The place of deſolation.</l>
+               <l>
+                  <hi>The King ſent us,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Honeſt Sir <hi>Ben's</hi> a real man,
+<note place="margin">Ben. Ayliffe Knight &amp; Baronet.</note>
+               </l>
+               <l>As ere was lapt in leather,</l>
+               <l>But he (God bleſs us) loves the King,</l>
+               <l>And therefore was ſent hither.</l>
+               <l>He durſt be Sheriff, and durſt make</l>
+               <l>The Parliament acquainted</l>
+               <l>What he intended for to do,</l>
+               <l>And for this was attainted.</l>
+               <l>
+                  <hi>The King ſent us,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Sir <hi>Benefield,</hi> Sir <hi>Walter Blunt,</hi>
+                  <note place="margin">Knights &amp; Baronets, Rom. but enemies to Jeſuites.</note>
+               </l>
+               <l>Are Romiſhly affected,</l>
+               <l>So's honeſt <hi>Frank</hi> of <hi>Howards</hi> race,</l>
+               <l>And <hi>Slaughter</hi> is ſuſpected:</l>
+               <l>But how the Devil come this about,</l>
+               <l>That Papiſts are ſo loyal?</l>
+               <l>And thoſe that call themſelves Gods Saints,</l>
+               <l>Like Devils do deſtroy all.</l>
+               <l>
+                  <hi>The King ſent us,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Jack Hewet</hi> will have wholeſome meat,
+<note place="margin">Knight &amp; Baronet.</note>
+               </l>
+               <l>And drink good wine if any,</l>
+               <l>His entertainments free and neat,</l>
+               <l>His choice of friends not many:</l>
+               <l>
+                  <hi>Jack</hi> is a loyal hearted man,</l>
+               <l>Well Parted and a Schollar,</l>
+               <l>Hee'l grumble if things pleaſe him not,</l>
+               <l>But never grows to chollar.</l>
+               <l>
+                  <hi>The King ſent us,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Gallant Sir <hi>Thomas,</hi> bold and ſtout,
+<note place="margin">Knight &amp; Baronet.</note>
+               </l>
+               <l>(Brave <hi>Lunsford</hi>) children eateth,</l>
+               <l>But he takes care, where he eats one,</l>
+               <l>There he a hundred getteth.</l>
+               <l>When <hi>Harlows</hi> wife brings her long bils,
+<note place="margin">His Hoſtis in the Tower.</note>
+               </l>
+               <l>He wiſhes ſhe were blinded,</l>
+               <l>When ſhe ſpeaks loud, as loud he ſwears,</l>
+               <l>The Woman's earthly minded.</l>
+               <l>
+                  <hi>The King ſent us,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Sir <hi>Lewis</hi> hath an able pen,
+<note place="margin">Dives Knight.</note>
+               </l>
+               <l>Can cudgel a Committee,</l>
+               <l>He makes them do him reaſon though</l>
+               <l>They others do not pitty:</l>
+               <l>Brave <hi>Cleaveland</hi> had a willing mind
+<note place="margin">An Earl a fa<g ref="char:EOLhyphen"/>mous Soul<g ref="char:EOLhyphen"/>dier in the K. Army.</note>
+               </l>
+               <l>
+                  <hi>Frank Wortley</hi> was not able,</l>
+               <l>But <hi>Lewis</hi> got four pound <hi>per</hi> week,</l>
+               <l>For's children and his table.</l>
+               <l>
+                  <hi>The King ſent,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Giles Strangwayes</hi> has a gallant ſoul,
+<note place="margin">Eſquire. Col. in the K. Army.</note>
+               </l>
+               <l>A brain infatigable,</l>
+               <l>What ſtudy he ere undertakes,</l>
+               <l>
+                  <hi>To</hi> maſter it hee's able.</l>
+               <l>He ſtudies on his Theoremes,</l>
+               <l>And <hi>Logarithmes</hi> for number,</l>
+               <l>He loves to ſpeak of <hi>Lewis Dives,</hi>
+               </l>
+               <l>And they are nere aſunder,</l>
+               <l>
+                  <hi>The King ſent,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Sir <hi>John Marlow's</hi> a loyal man,
+<note place="margin">Knight.</note>
+               </l>
+               <l>(If <hi>England</hi> ere bred any)</l>
+               <l>He bang'd the Pedlar back and ſide,
+<note place="margin">Gen. Laſhley.</note>
+               </l>
+               <l>Of <hi>Scots</hi> he killed many:</l>
+               <l>Had General <hi>King</hi> done what he ſhould,</l>
+               <l>And given the Blew-Caps battaile,</l>
+               <l>Wee'd made them all run into <hi>Tweed,</hi>
+               </l>
+               <l>By droves like Summers Cattel.</l>
+               <l>
+                  <hi>The King ſent,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Will. Morton's</hi> of that Cardinals race,
+<note place="margin">Knight.</note>
+               </l>
+               <l>Who made that bleſſed marriage,</l>
+               <l>He is moſt loyal to his King,
+<note place="margin">
+                     <hi>H.</hi> 7.</note>
+               </l>
+               <l>In action, word, and carriage,</l>
+               <l>His ſword and pen defends the Cauſe,</l>
+               <l>If King <hi>Charls</hi> think not on him,</l>
+               <l>
+                  <hi>Will.</hi> is among the reſt undone,</l>
+               <l>The Lord have mercy on him.</l>
+               <l>
+                  <hi>The King ſent,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Tom Conisby</hi> is ſtout and ſtern,
+<note place="margin">
+                     <hi>Sheriff of</hi> Hartford <hi>Eſquire.</hi>
+                  </note>
+               </l>
+               <l>Yet of a ſweet condition</l>
+               <l>To them he loves; his crime was great,</l>
+               <l>He read the Kings Commiſſion:</l>
+               <l>And required <hi>Cranborn</hi> to aſſiſt;
+<note place="margin">Earl of Sa<g ref="char:EOLhyphen"/>lisburies ſon.</note>
+               </l>
+               <l>He charg'd, but ſhould have pray'd him;</l>
+               <l>
+                  <hi>Tom</hi> was ſo bold he did require</l>
+               <l>All for the King ſhould aid him.</l>
+               <l>
+                  <hi>The King ſent,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>But I <hi>Win Bodman</hi> had forgot,
+<note place="margin">Knight.</note>
+               </l>
+               <l>Had ſuffered ſo much hardſhip,</l>
+               <l>Theres no man in the <hi>Tower</hi> had left</l>
+               <l>The King ſo young a Wardſhip.</l>
+               <l>He's firm both to the Church and Crown,</l>
+               <l>The Crown Law and the Canon,</l>
+               <l>The Houſes put him to his ſhifts,</l>
+               <l>And his wives father <hi>Mammon.</hi>
+               </l>
+               <l>
+                  <hi>The King ſent,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Sir <hi>Henry Vaughan</hi> looks as grave,
+<note place="margin">Knight.</note>
+               </l>
+               <l>As any beard can make him,</l>
+               <l>Thoſe come poor Priſoners for to ſee,</l>
+               <l>Do for our Patriark take him.</l>
+               <l>Old <hi>Harry</hi> is a right true blue</l>
+               <l>As valiant as <hi>Pendraggon.</hi>
+               </l>
+               <l>And would be loyal to his King,</l>
+               <l>Had King <hi>Charles</hi> nere a rag on.</l>
+               <l>
+                  <hi>The King ſent,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>John Lilburn</hi> is a ſtirring blade,
+<note place="margin">Gent.</note>
+               </l>
+               <l>And underſtands the matter.</l>
+               <l>He neither will King, Biſhops, Lords,</l>
+               <l>Nor'th Houſe of Commons flatter.</l>
+               <l>
+                  <hi>John</hi> loves no power prerogative,</l>
+               <l>But that deriv'd from <hi>Sion,</hi>
+               </l>
+               <l>As for the Mitre and the Crown,</l>
+               <l>Thoſe two he looks awry on.</l>
+               <l>
+                  <hi>The King ſent,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Tom Violet</hi> ſwears his injuries
+<note place="margin">Goldſmith.</note>
+               </l>
+               <l>Are ſcarcely to be numbred,</l>
+               <l>He was cloſe priſoner to the State,</l>
+               <l>Threeſcore dayes and nine hundred.</l>
+               <l>For <hi>Tom</hi> does ſet down all the dayes,</l>
+               <l>And hopes he has good debters,</l>
+               <l>'Twould be no treaſon <hi>Jenkins</hi> ſayes,</l>
+               <l>To bring them peaceful letters.</l>
+               <l>
+                  <hi>The King ſent,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Poor <hi>Hudſon</hi> of all was the laſt;
+<note place="margin">D.D.</note>
+               </l>
+               <l>For it was his diſaſter,</l>
+               <l>He met a turn-coat, ſwore that he</l>
+               <l>Was once King <hi>CHARLES</hi> his Maſter;</l>
+               <l>So he to <hi>London</hi> ſoon was brought,</l>
+               <l>But came in ſuch a ſeaſon,</l>
+               <l>Their Martial Court was then cri'd down,</l>
+               <l>They could not try his treaſon.</l>
+               <l>
+                  <hi>The King ſent,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Elſe <hi>Hudſon</hi> had gone to the pot,</l>
+               <l>Who is he can abide him?</l>
+               <l>For he was Maſter to the King,</l>
+               <l>And (which is more) did guide him.</l>
+               <l>Had <hi>Hudſon</hi> done as <hi>Judas</hi> did</l>
+               <l>Moſt loyally betray'd him,</l>
+               <l>The houſes are ſo noble they</l>
+               <l>As bravely would have paid him.</l>
+               <l>
+                  <hi>The King ſent,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Wee'l then conclude with hearty healths,</l>
+               <l>To King <hi>CHARLES</hi> and Queen <hi>MART,</hi>
+               </l>
+               <l>To the black Lad in buff, (the Prince)</l>
+               <l>So like his Grandfire <hi>HARRY.</hi>
+               </l>
+               <l>To <hi>YORK,</hi> to <hi>GLOSTER,</hi> may we not</l>
+               <l>Send <hi>Turk</hi> and <hi>Pope</hi> defiance;</l>
+               <l>Since we ſuch gallant ſeconds have</l>
+               <l>To ſtrengthen our alliance?</l>
+               <l>Wee'l drink them o're and o're again</l>
+               <l>Elſe we're unthankful creatures,</l>
+               <l>Since <hi>CHARLES</hi> the Wiſe, the valiant King</l>
+               <l>Takes us for loyal Traytors.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>This if you will rhime dogrel call</hi>
+               </l>
+               <l>
+                  <hi>(That you pleaſe you may name it)</hi>
+               </l>
+               <l>
+                  <hi>One of the loyal trayors here</hi>
+               </l>
+               <l>
+                  <hi>Did for a Ballad frame it;</hi>
+               </l>
+               <l>
+                  <hi>Old Chevy Chaſe was in his mind,</hi>
+               </l>
+               <l>
+                  <hi>If any ſute it better,</hi>
+               </l>
+               <l>
+                  <hi>All theſe concerned in the Song</hi>
+               </l>
+               <l>
+                  <hi>Will kindly thank the ſetter.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
